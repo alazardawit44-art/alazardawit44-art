@@ -1,12 +1,15 @@
-Hi, I'm Alazar 👋
+# Hi, I'm Alazar 👋
 
-Information Systems student interested in frontend development.
+I am an Information Systems student interested in frontend development.
 
-Skills:
- HTML
- CSS
- JavaScript
- Learning React
+## Skills
+- HTML
+- CSS
+- JavaScript
 
-Currently building projects and improving my coding skills.
+## Currently Learning
+- React
+- TypeScript
 
+## Goal
+To become a professional frontend developer and build useful web applications.
